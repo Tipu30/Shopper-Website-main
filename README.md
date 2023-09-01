@@ -1,3 +1,3 @@
 # ShopperWebsite
 
-Live Link (https://khanafzal17.github.io/ShopperWebsite/)
+Live Link (https://tipu30.github.io/Shopper-Website-main/)
